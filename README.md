@@ -11,7 +11,3 @@ This is a HTML project, showcasing three of my favorite recipes.
 - Learnt basic HTML.
 - Learnt file structures.
 - Learnt the basics of Git and how to structure Git commit messages.
-
-# Attribution
-
-This sections contains attributions for images and recipes.
