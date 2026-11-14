@@ -1,0 +1,33 @@
+body {
+  background-color: rgb(18, 13, 21);
+  color: rgb(248, 248, 235);
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.title {
+  text-align: center;
+  margin: 10px 0;
+}
+
+li {
+  margin: 10px 0;
+}
+
+.recipe-image {
+  box-sizing: border-box;
+  display: block;
+  margin: 0 auto;
+  width: 600px;
+  height: auto;
+  border: 15px solid rgb(248, 248, 235);
+}
+
+.recipe-section {
+  margin: 15px auto;
+  border: 3px dashed rgb(248, 248, 235);
+  padding: 10px;
+}
+
+.recipe-section h2 {
+  text-align: center;
+}
